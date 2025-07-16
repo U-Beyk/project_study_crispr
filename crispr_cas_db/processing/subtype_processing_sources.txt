@@ -1,0 +1,37 @@
+Type I-A to Type I-F:
+Charpentier E, Richter H, van der Oost J, White MF. Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity. FEMS Microbiol Rev. 2015 May;39(3):428-41. doi: 10.1093/femsre/fuv023. Epub 2015 May 19. PMID: 25994611; PMCID: PMC5965381.
+
+Type I-G:
+IS PROCESSED SIMIALR TO REST OF TYPE I AND HAS HAIRPIN: Shangguan Q, Graham S, Sundaramoorthy R, White MF. Structure and mechanism of the type I-G CRISPR effector. Nucleic Acids Res. 2022 Oct 28;50(19):11214-11228. doi: 10.1093/nar/gkac925. PMID: 36305833; PMCID: PMC9638904.
+
+Type II-A:
+Charpentier E, Richter H, van der Oost J, White MF. Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity. FEMS Microbiol Rev. 2015 May;39(3):428-41. doi: 10.1093/femsre/fuv023. Epub 2015 May 19. PMID: 25994611; PMCID: PMC5965381.
+Deltcheva E, Chylinski K, Sharma CM, Gonzales K, Chao Y, Pirzada ZA, Eckert MR, Vogel J, Charpentier E. CRISPR RNA maturation by trans-encoded small RNA and host factor RNase III. Nature. 2011 Mar 31;471(7340):602-7. doi: 10.1038/nature09886. PMID: 21455174; PMCID: PMC3070239.
+
+Type II-B:
+SINCE SAME GENES AS TYPE II-A, SAME PROCESSING IS ASSUMED: Charpentier E, Richter H, van der Oost J, White MF. Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity. FEMS Microbiol Rev. 2015 May;39(3):428-41. doi: 10.1093/femsre/fuv023. Epub 2015 May 19. PMID: 25994611; PMCID: PMC5965381.
+
+Type II-C:
+HAS AN ALTERNATE PATHWAY INSTEAD OF THE RNASEIII: Charpentier E, Richter H, van der Oost J, White MF. Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity. FEMS Microbiol Rev. 2015 May;39(3):428-41. doi: 10.1093/femsre/fuv023. Epub 2015 May 19. PMID: 25994611; PMCID: PMC5965381.
+RNASEIII IS DISPENSABLE, BUT STILL PART OF THE GENOME. SO SIMILAR PROCESSING AS TYPE II-A ASSUMED.
+
+SECONDARY PROCESSING STEP NOT FULLY UNDERSTOOD: Burmistrz M, Krakowski K, Krawczyk-Balska A. RNA-Targeting CRISPR-Cas Systems and Their Applications. Int J Mol Sci. 2020 Feb 7;21(3):1122. doi: 10.3390/ijms21031122. PMID: 32046217; PMCID: PMC7036953.
+                                                Charpentier E, Richter H, van der Oost J, White MF. Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity. FEMS Microbiol Rev. 2015 May;39(3):428-41. doi: 10.1093/femsre/fuv023. Epub 2015 May 19. PMID: 25994611; PMCID: PMC5965381.
+                                                Chou-Zheng L, Hatoum-Aslan A. Critical roles for 'housekeeping' nucleases in type III CRISPR-Cas immunity. Elife. 2022 Dec 8;11:e81897. doi: 10.7554/eLife.81897. PMID: 36479971; PMCID: PMC9762709.
+Type III-A and Type III-B:
+Charpentier E, Richter H, van der Oost J, White MF. Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity. FEMS Microbiol Rev. 2015 May;39(3):428-41. doi: 10.1093/femsre/fuv023. Epub 2015 May 19. PMID: 25994611; PMCID: PMC5965381.
+
+Type III-D:
+PROBABLY USES CAS5 ORTHOLOG: Guzmán NM, Esquerra-Ruvira B, Mojica FJM. Digging into the lesser-known aspects of CRISPR biology. Int Microbiol. 2021 Nov;24(4):473-498. doi: 10.1007/s10123-021-00208-7. Epub 2021 Sep 6. PMID: 34487299; PMCID: PMC8616872.
+                             Charpentier E, Richter H, van der Oost J, White MF. Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity. FEMS Microbiol Rev. 2015 May;39(3):428-41. doi: 10.1093/femsre/fuv023. Epub 2015 May 19. PMID: 25994611; PMCID: PMC5965381.
+
+
+Type V-A:
+Chen J, Lin X, Xiang W, Chen Y, Zhao Y, Huang L, Liu L. DNA target binding-induced pre-crRNA processing in type II and V CRISPR-Cas systems. Nucleic Acids Res. 2025 Jan 24;53(3):gkae1241. doi: 10.1093/nar/gkae1241. Erratum in: Nucleic Acids Res. 2025 Jan 24;53(3):gkaf024. doi: 10.1093/nar/gkaf024. PMID: 39676682; PMCID: PMC11797020.
+Lindsie Martin, Saadi Rostami, Rakhi Rajan, Chapter Four - Optimized protocols for the characterization of Cas12a activities, Editor(s): Arun K. Shukla, Methods in Enzymology, Academic Press, Volume 679, 2023, Pages 97-129, ISSN 0076-6879, ISBN 9780323992640, https://doi.org/10.1016/bs.mie.2022.08.048.
+HAS PSEUDOKNOT: Swarts DC, van der Oost J, Jinek M. Structural Basis for Guide RNA Processing and Seed-Dependent DNA Targeting by CRISPR-Cas12a. Mol Cell. 2017 Apr 20;66(2):221-233.e4. doi: 10.1016/j.molcel.2017.03.016. PMID: 28431230; PMCID: PMC6879319.
+NO tracrRNA: Winston X. Yan et al. ,Functionally diverse type V CRISPR-Cas systems.Science363,88-91(2019).DOI:10.1126/science.aav7271
+
+Type V-F4:
+sgRNA WAS USED IN V-F not V-F4: Xiao R, Li Z, Wang S, Han R, Chang L. Structural basis for substrate recognition and cleavage by the dimerization-dependent CRISPR-Cas12f nuclease. Nucleic Acids Res. 2021 Apr 19;49(7):4120-4128. doi: 10.1093/nar/gkab179. PMID: 33764415; PMCID: PMC8053092.
+PROBABLY NO HAIRPIN OR STEM-LOOP SINCE tracrRNA IS USED IN THIS SYSTEM: Winston X. Yan et al. ,Functionally diverse type V CRISPR-Cas systems.Science363,88-91(2019).DOI:10.1126/science.aav7271

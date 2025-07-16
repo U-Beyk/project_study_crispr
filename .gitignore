@@ -1,0 +1,7 @@
+RNAmotiFold/
+__pycache__/
+crispr_cas_evaluation/plots/
+crispr_cas_evaluation/prediction_files/*
+crispr_cas_db/database_tables/*
+crispr_cas_db/fasta_files/*
+crispr_cas_db/db_parser/Crispr_Cas_Database_SQL_Dump.sql
