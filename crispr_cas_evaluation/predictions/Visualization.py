@@ -29,7 +29,7 @@ class Visualization(ABC):
         fig, ax = plt.subplots(figsize=(12, 10))
         self._draw(ax)
         fig.tight_layout()
-        fig.savefig(f"{filepath}", dpi=600)
+        fig.savefig(f"{filepath}", dpi=300)
         plt.close(fig)
 
 @dataclass
