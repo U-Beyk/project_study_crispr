@@ -89,3 +89,47 @@ protein complexes they express, which are responsible for the interference mecha
 Depending on the subtype, the crRNA is either largely unstructured or adopt a specific
 secondary structure, which serves as a structural motif that is recognized by Cas proteins [14]. 
 Consequently, the repeats and crRNA represent ideal targets for secondary structure and RNA 3D motif analysis.
+
+**Bibliography**
+
+[1] I. Tinoco und C. Bustamante, „How RNA folds“, J. Mol. Biol., Bd. 293, Nr. 2, S. 271–281,
+Okt. 1999, doi: 10.1006/jmbi.1999.3001.  
+[2] W. A. Haseltine, K. Hazel, und R. Patarca, „RNA Structure: Past, Future, and Gene Therapy
+Applications“, Int. J. Mol. Sci., Bd. 26, Nr. 1, S. 110, Dez. 2024, doi: 10.3390/ijms26010110.  
+[3] L. G. Parlea, B. A. Sweeney, M. Hosseini-Asanjan, C. L. Zirbel, und N. B. Leontis, „The RNA
+3D Motif Atlas: Computational methods for extraction, organization and evaluation of
+RNA motifs“, Methods San Diego Calif, Bd. 103, S. 99–119, Juli 2016, doi:
+10.1016/j.ymeth.2016.04.025.  
+[4] A. Lescoute, N. B. Leontis, C. Massire, und E. Westhof, „Recurrent structural RNA motifs,
+Isostericity Matrices and sequence alignments“, Nucleic Acids Res., Bd. 33, Nr. 8, S. 2395–
+2409, 2005, doi: 10.1093/nar/gki535.  
+[5] L. Nasalean, J. Stombaugh, C. L. Zirbel, und N. B. Leontis, „RNA 3D Structural Motifs:
+Definition, Identification, Annotation, and Database Searching“, in Non-Protein Coding
+RNAs, N. G. Walter, S. A. Woodson, und R. T. Batey, Hrsg., Berlin, Heidelberg: Springer,
+2009, S. 1–26. doi: 10.1007/978-3-540-70840-7_1.  
+[6] I. L. Hofacker, W. Fontana, P. F. Stadler, L. S. Bonhoeffer, M. Tacker, und P. Schuster, „Fast
+folding and comparison of RNA secondary structures“, Monatshefte Für Chem. Chem.
+Mon., Bd. 125, Nr. 2, S. 167–188, Feb. 1994, doi: 10.1007/BF00818163.  
+[7] M. Zuker und P. Stiegler, „Optimal computer folding of large RNA sequences using
+thermodynamics and auxiliary information“, Nucleic Acids Res., Bd. 9, Nr. 1, S. 133–148,
+Jan. 1981, doi: 10.1093/nar/9.1.133.  
+[8] B. Voß, „Classified Dynamic Programming in RNA Structure Analysis“, Methods Mol. Biol.
+Clifton NJ, Bd. 2726, S. 125–141, 2024, doi: 10.1007/978-1-0716-3519-3_6.  
+[9] R. Giegerich, B. Voss, und M. Rehmsmeier, „Abstract shapes of RNA“, Nucleic Acids Res.,
+Bd. 32, Nr. 16, S. 4843–4851, 2004, doi: 10.1093/nar/gkh779.  
+[10] J. Huang, R. Backofen, und B. Voß, „Abstract folding space analysis based on helices“,
+RNA, Bd. 18, Nr. 12, S. 2135–2147, Dez. 2012, doi: 10.1261/rna.033548.112.  
+[11] M. Sebeke und B. Voß, „Incorporating RNA 3D Motifs into RNA secondary structure
+prediction“.  
+[12] J. Reeks, J. H. Naismith, und M. F. White, „CRISPR interference: a structural
+perspective“, Biochem. J., Bd. 453, Nr. Pt 2, S. 155–166, Juli 2013, doi:
+10.1042/BJ20130316.  
+[13] K. Chylinski, A. Le Rhun, und E. Charpentier, „The tracrRNA and Cas9 families of type II
+CRISPR-Cas immunity systems“, RNA Biol., Bd. 10, Nr. 5, S. 726–737, Mai 2013, doi:
+10.4161/rna.24321.  
+[14] E. Charpentier, H. Richter, J. van der Oost, und M. F. White, „Biogenesis pathways of
+RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity“, FEMS Microbiol.
+Rev., Bd. 39, Nr. 3, S. 428–441, Mai 2015, doi: 10.1093/femsre/fuv023.  
+[15] V. Kunin, R. Sorek, und P. Hugenholtz, „Evolutionary conservation of sequence and
+secondary structures in CRISPR repeats“, Genome Biol., Bd. 8, Nr. 4, S. R61, Apr. 2007, doi:
+10.1186/gb-2007-8-4-r61.
