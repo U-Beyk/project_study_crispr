@@ -21,7 +21,7 @@ Additionally, this project currently lacks testing and exception handling. Since
 
 Following is the underlying theory of the project study:
 
-**RNA folding and architecture**
+## RNA folding and architecture
 
 Ribonucleic acid (RNA) plays an important role in regulation processes, catalysis and gene
 expression. Since the three-dimensional structure of RNA dictates its function, understanding
