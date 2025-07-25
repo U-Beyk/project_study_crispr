@@ -1,5 +1,5 @@
 # Project study
-Project study of my Master of science.
+This repository contains the code for my Master's project study.
 
 **The aim of this project was to examine repeat RNA and CRISPR RNA structures and their RNA 3D motifs from the CRISPR-Cas database.**
 
