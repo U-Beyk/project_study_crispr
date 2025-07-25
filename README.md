@@ -21,7 +21,7 @@ Additionally, this project currently lacks testing and exception handling. Since
 
 Following is the underlying theory of the project study:
 
-## RNA folding and architecture
+### RNA folding and architecture
 
 Ribonucleic acid (RNA) plays an important role in regulation processes, catalysis and gene
 expression. Since the three-dimensional structure of RNA dictates its function, understanding
@@ -48,7 +48,7 @@ of RNA 3D motifs is their stabilizing role during RNA folding: UNCG-tetraloops c
 nucleation sites for the formation of hairpin loop stems [3].
 
 
-## RNA structure prediction
+### RNA structure prediction
 
 Accurate prediction of RNA secondary structure is crucial for understanding RNA, as its
 structure dictates its function. Traditional secondary structure prediction methods aim to
@@ -73,7 +73,7 @@ classes, each represented by a mfe structure [11]. For this study, the terms “
 “3D motif” and “motif” will be used synonymously, unless otherwise specified.
 
 
-## CRISPR RNA
+### CRISPR RNA
 
 The CRISPR-Cas system is an adaptive immune mechanism that protects prokaryotes from
 mobile genetic elements such as phages. CRISPR stands for “Clustered Regularly Interspaced
@@ -96,7 +96,7 @@ secondary structure, which serves as a structural motif that is recognized by Ca
 Consequently, the repeats and crRNA represent ideal targets for secondary structure and RNA 3D motif analysis.
 
 
-## Bibliography
+### Bibliography
 
 [1] I. Tinoco und C. Bustamante, „How RNA folds“, J. Mol. Biol., Bd. 293, Nr. 2, S. 271–281,
 Okt. 1999, doi: 10.1006/jmbi.1999.3001.  
