@@ -15,6 +15,8 @@ Save it in the same folder the main.py is located in.
 Be aware, that it is possible that the RNAmotiFold algorith might not work due to changes in the tool. 
 In that case try following commit: 33f9e8c131daabd151af74753c2dbbcee5751e32
 
+After running the main.py a plot folder will be created, containing the visualizations of the results.
+
 Many of the classes in this project are generic, abstract, or serve as parent classes for others. This design choice was made to promote code reuse. Much of the code is expected to be refactored over time to be more generic, rather than hardcoded. The only part that will remain implementation-specific is the database processing logic, which needs to be rewritten for each distinct database, and a small part of the analysis.  
 Additionally, this project currently lacks testing and exception handling. Since it was primarily developed for internal data analysis and not intended as a widely used tool, these aspects were initially deprioritized. For the same reason the documentation is also kept to a minimum.
 
